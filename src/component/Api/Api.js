@@ -1,7 +1,7 @@
 // const host = "https://Password-tracker-app-knl1.onrender.com";
 // const host = "http://localhost:8015";
 // const host="https://backendPassword.vercel.app"
-const host="https://passwordbackend-m8hr.onrender.com"
+const host="https://passwordbackend1-icd3.onrender.com"
 export const registerAPI = `${host}/api/v1/auth/register`;
 export const loginAPI = `${host}/api/v1/auth/login`;
 export const addPassword = `${host}/api/v1/pass/addPassword`;
